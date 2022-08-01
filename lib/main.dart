@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:online_shop_app/constant.dart';
-
-import 'model/screens/home_screem.dart';
+import 'screens/home/home_screen.dart';
 
 void main() {
   runApp(const MyApp());

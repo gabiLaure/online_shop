@@ -23,7 +23,8 @@ List<Product> products = [
       price: 250,
       title: "Office handbag",
       size: 10,
-      description: "dummyText"),
+      description:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."),
   Product(
       id: 2,
       image: "assets/images/bag6.png",
@@ -31,15 +32,17 @@ List<Product> products = [
       price: 250,
       title: "Outing handbag",
       size: 10,
-      description: "dummyText"),
+      description:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."),
   Product(
       id: 3,
       image: "assets/images/bag5.png",
-      color: Color.fromARGB(166, 131, 67, 67),
+      color: Color(0xA6574343),
       price: 250,
       title: "Walking handbag",
       size: 10,
-      description: "dummyText"),
+      description:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."),
   Product(
       id: 4,
       image: "assets/images/bag9.png",
@@ -47,37 +50,42 @@ List<Product> products = [
       price: 250,
       title: "Office handbag",
       size: 10,
-      description: "dummyText"),
+      description:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."),
   Product(
-      id: 4,
+      id: 5,
       image: "assets/images/bag10.png",
       color: Color.fromARGB(255, 238, 159, 227),
       price: 250,
       title: "Office handbag",
       size: 10,
-      description: "dummyText"),
+      description:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."),
   Product(
-      id: 4,
+      id: 6,
       image: "assets/images/bag8.png",
       color: Color.fromARGB(255, 243, 181, 180),
       price: 250,
       title: "Office handbag",
       size: 10,
-      description: "dummyText"),
+      description:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."),
   Product(
-      id: 4,
+      id: 7,
       image: "assets/images/bag8.png",
       color: Color.fromARGB(255, 243, 181, 180),
       price: 250,
       title: "Office handbag",
       size: 10,
-      description: "dummyText"),
+      description:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."),
   Product(
-      id: 4,
+      id: 8,
       image: "assets/images/bag8.png",
       color: Color.fromARGB(255, 243, 181, 180),
       price: 250,
       title: "Office handbag",
       size: 10,
-      description: "dummyText")
+      description:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.")
 ];
